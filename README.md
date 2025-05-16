@@ -2,9 +2,6 @@
 
 > Third-year Computer Science student at Institut Teknologi Bandung (ITB)
 
-## About Me
-
-Passionate developer and technology enthusiast focused on creating elegant and efficient solutions.
 
 ## Connect With Me
 
