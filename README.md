@@ -1,6 +1,6 @@
 # Taufiq Ramadhan Ahmad
 
-> Third-year Computer Science student at Institut Teknologi Bandung (ITB)
+> Third-year Information System and Technology student at Institut Teknologi Bandung (ITB)
 
 
 ## Connect With Me
