@@ -1,4 +1,4 @@
-# Taufiq Ramadhana
+# Taufiq Ramadhan Ahmad
 
 > Third-year Computer Science student at Institut Teknologi Bandung (ITB)
 
